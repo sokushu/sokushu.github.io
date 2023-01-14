@@ -108,19 +108,19 @@ defaultContentLanguageInSubdir = false
   weight = 100
 
 
-[languages.en]
-  languageCode = "en"
-  languageName = "English"
-  contentDir = "content/en"
+[languages.zh-cn]
+  languageCode = "zh-cn"
+  languageName = "简体中文"
+  contentDir = "content/zh-cn"
   weight = 1
 
   [[languages.en.menu.main]]
-    name = "Notes"
+    name = "笔记"
     weight = 10
     identifier = "notes"
     url = "category/notes/"
   [[languages.en.menu.main]]
-    name = "Demos"
+    name = "Demo"
     weight = 20
     identifier = "demos"
     url = "category/demos/"
@@ -132,39 +132,39 @@ defaultContentLanguageInSubdir = false
     url = "https://github.com/shaform/hugo-theme-den/"
 
   [[languages.en.menu.links]]
-    name = "About Me"
+    name = "关于我"
     weight = 10
     identifier = "about-me"
     url = "https://github.com/shaform/hugo-theme-den/"
 
-[languages.zh-tw]
-  languageCode = "zh-tw"
-  languageName = "繁體中文"
-  contentDir = "content/zh-tw"
+[languages.jp]
+  languageCode = "jp"
+  languageName = "日本語"
+  contentDir = "content/jp"
   weight = 2
 
-  [languages.zh-tw.params]
+  [languages.jp.params]
     description = "一個簡單的佈景。"
 
-  [[languages.zh-tw.menu.main]]
-    name = "筆記"
+  [[languages.jp.menu.main]]
+    name = "ノート"
     weight = 10
     identifier = "notes"
     url = "category/notes/"
-  [[languages.zh-tw.menu.main]]
-    name = "展示"
+  [[languages.jp.menu.main]]
+    name = "デモ"
     weight = 20
     identifier = "demos"
     url = "category/demos/"
 
-  [[languages.zh-tw.menu.social]]
+  [[languages.jp.menu.social]]
     name = "GitHub"
     weight = 10
     identifier = "github"
     url = "https://github.com/shaform/hugo-theme-den/"
 
-  [[languages.zh-tw.menu.links]]
-    name = "關於我"
+  [[languages.jp.menu.links]]
+    name = "About Me"
     weight = 10
     identifier = "about-me"
     url = "https://github.com/shaform/hugo-theme-den/"
