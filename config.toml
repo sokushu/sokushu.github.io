@@ -114,24 +114,24 @@ defaultContentLanguageInSubdir = false
   contentDir = "content/zh-cn"
   weight = 1
 
-  [[languages.en.menu.main]]
+  [[languages.zh-cn.menu.main]]
     name = "笔记"
     weight = 10
     identifier = "notes"
     url = "category/notes/"
-  [[languages.en.menu.main]]
+  [[languages.zh-cn.menu.main]]
     name = "Demo"
     weight = 20
     identifier = "demos"
     url = "category/demos/"
 
-  [[languages.en.menu.social]]
+  [[languages.zh-cn.menu.social]]
     name = "GitHub"
     weight = 10
     identifier = "github"
     url = "https://github.com/shaform/hugo-theme-den/"
 
-  [[languages.en.menu.links]]
+  [[languages.zh-cn.menu.links]]
     name = "关于我"
     weight = 10
     identifier = "about-me"
