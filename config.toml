@@ -29,7 +29,7 @@ disqusShortname = ""         # disqus_shortname
 googleAnalytics = ""         # UA-XXXXXXXX-X
 
 # language support # en / zh-tw / other... translations present in i18n/
-defaultContentLanguage = "en"           # Default language to use
+defaultContentLanguage = "zh-cn"           # Default language to use
 defaultContentLanguageInSubdir = false
 
 # Links format
