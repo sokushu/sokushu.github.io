@@ -8,13 +8,13 @@ categories: ["BUG发现与解决"]
 authors:
 - "牛奶"
 - name: header
-  src: 'pic01.png'
+  src: '/images/pic01.png'
 ---
 
 事情是这样的，上一周（2023年1月2日-6日）要我调查一个BUG。
 BUG的表现是PG数据库执行SQL语句时，不定时抛出异常。
 
-![异常信息](./pic01.png)
+![异常信息](/images/pic01.png)
 
 ## 异常信息
 异常信息：「A command is already in progress」「指令已经在执行」
