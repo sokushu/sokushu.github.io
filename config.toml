@@ -2,7 +2,7 @@
 # ---- General Settings --------------- #
 # ------------------------------------- #
 baseURL = "https://example.com"
-title = "Den"
+title = "Azumo-Lab 开源技术博客"
 theme = "hugo-theme-den"
 #enableRobotsTXT = true       # generate robots.txt
 enableEmoji = true           # use emoji support
