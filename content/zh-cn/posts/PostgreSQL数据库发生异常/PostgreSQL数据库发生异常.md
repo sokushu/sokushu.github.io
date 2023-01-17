@@ -1,9 +1,9 @@
 ---
 title: "PostgreSQL数据库发生异常"
 date: 2022-01-14
-lastmod: 2022-01-14
+lastmod: 2022-01-17
 draft: false
-tags: ["PostgreSQL"]
+tags: ["PostgreSQL", "数据库"]
 categories: ["BUG发现与解决"]
 authors:
 - "牛奶"
